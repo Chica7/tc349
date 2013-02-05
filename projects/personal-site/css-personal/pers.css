@@ -1,0 +1,11 @@
+h1 { 
+	color: pink;
+	font-family: arial;
+}
+
+h2 {
+	color: pink;}
+
+#navig {list-style: none; background-color: yellow; 
+	font-weight:bold; font-size: larger; }
+#navig li {display: inline; margin: 70px}
