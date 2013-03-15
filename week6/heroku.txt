@@ -1,0 +1,6 @@
+Heroku:
+
+
+Heroku is a pretty plain site when accessed. The color pattern it uses dark background with blue words) takes a bit of visual adjustment when entering the site. It is a bit unclear as to the purpose of the site from first glances because there is not any direct dscription on the homepage. 
+
+The site does have a working navigation,links and overall site, but it could use more graphics and visual aesthetics. It could also use an easy to see description of what the site is for to easily help viewers get an idea when entering the site. The site could also use some interactive components for social connectivity and also interactive examples of their products and how they work.
