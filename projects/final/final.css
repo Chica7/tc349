@@ -1,0 +1,43 @@
+body{
+ background-color: purple;
+width:1000px; 
+margin: 0 auto;
+}
+
+h1 { 
+
+	color: #00FF99;
+	font-family: Georgia;
+	text-align: center;
+	text-decoration: underline;
+		margin: 0; 
+}
+
+h2 {
+	font-family: Helvetica;
+	color: #CC66FF;
+	padding: 5px;
+	margin: 0;
+}
+
+p{
+color: #FF00CC;
+font-size: 22px;
+text-align: center;
+}
+
+li {
+	text-align:left;
+
+}
+ 
+img {
+	padding-top: 15px;
+	
+
+}
+
+#navig {list-style: none; background-color: white; 
+	font-weight:bold; font-size: larger; text-align: center;
+	 }
+#navig li {display: inline; margin: 71px}
