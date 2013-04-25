@@ -1,0 +1,6 @@
+Hollister Co mobile website:
+
+
+	The homepage and other pages of the mobile site fit into the view-port nicely. The type size is not big, but it can be read fairly well. The mobile site is pretty easy to navigate through and definitely made convenient. The mobile site also resembles the computer based site well.
+
+	Shopping on the mobile site is a breeze. The product pictures are a good size on the browsing pages and an even better size when you click on the item and go to its own page. Adding items to your shopping bag from the product page and viewing item details is also very simple. The mobile site's structure is sound and does not have any noticeable offsets, such as image, header, text, and navigation placement. Overall, the mobile version of this site is good. Everything works and is placed nicely, size wise and placement wise in the view-port.  
