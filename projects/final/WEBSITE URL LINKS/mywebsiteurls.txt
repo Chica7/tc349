@@ -1,7 +1,10 @@
-Hosted on two different locations 
-(my picture slideshow works on my comp, but would not work on either hosting site)
+Hosted on two different locations. 
+
+(My picture slideshow (on homepage) links/code work properly on my comp, but would not play on either hosting sites, I dont know if it is supported on them. Also my mobile site was reponding like it should when I typed it into the mobile simulator, but I do have my site responsive for mobile. But here are two places I hosted my site and a direct link to my mobile site. (If you access http://tinyurl.com/randomreqs2 or http://tinyurl.com/randomreq on an actual phone my mobile site works fine)
 
 
-#1  http://tinyurl.com/randomreqs2
+Hosting site #1  http://tinyurl.com/randomreqs2
 
-#2  http://tinyurl.com/randomreqs
+Hosting site #2  http://tinyurl.com/randomreqs
+
+Mobile site direct preview link: http://mobile.dudamobile.com/site/googledrive_7
