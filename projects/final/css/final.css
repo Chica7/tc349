@@ -67,11 +67,7 @@ aside {
        float: left;
      }
 
-@media (max-width: 320px) {
-	.container {
-		width: 100%;
-		margin:0;
-	}
+
 
 	h1 {
 		width: 100%;
@@ -88,16 +84,6 @@ article {
 		width: 100%;
 		margin:0;
 	}
-
-	h1 {
-		width: 100%;
-	}
-
-article {
-	margin: 240px 0 0 0;
-}
-
-
 #navig {list-style: none; background-color: white; 
 	font-weight:bold; font-size: larger; text-align: center;
 	 }
