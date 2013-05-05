@@ -4,6 +4,11 @@ width:1000px;
 margin: 0 auto;
 }
 
+img {
+margin-right: auto;
+margin-left: auto;
+}
+
 h1 { 
 
 	color: orange;
@@ -32,6 +37,7 @@ h4{
 	
 	color: yellow;
 	font-size: .8em;
+	text-align: center;
 
 }
 
@@ -40,12 +46,14 @@ p{
 color: #FF00CC;
 font-size: 22px;
 text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 li {
 	color: white;
 	text-align:left;
-
+    font-size: 1.5em;
 }
  
 img {
@@ -89,9 +97,6 @@ article {
 	margin: 240px 0 0 0;
 }
 
-.container { }
-
-}
 
 #navig {list-style: none; background-color: white; 
 	font-weight:bold; font-size: larger; text-align: center;
